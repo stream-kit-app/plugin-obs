@@ -11,5 +11,5 @@
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-obs/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-obs/releases/download/v0.1.2-alpha.0/plugin-obs.zip",
-  "sha256": "1495098bad2f925d31e69156df52cf9058dfb875f7d6d49daf0092108d50d816"
+  "sha256": "8c5626a77e7f80239cc259230740c60b2d2300dec0742979c601be90e99b54f4"
 }
