@@ -1,13 +1,13 @@
 {
   "key": "obs",
   "name": "OBS",
-  "version": "0.1.2-alpha.0",
+  "version": "0.2.0-alpha.5",
   "description": "Control OBS scenes, sources, streaming, recording, media, filters, and replay buffer.",
   "icon": "simple-icons:obsstudio",
   "entry": "dist/index.js",
   "dependencies": [],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-obs/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-obs/releases/download/v0.1.2-alpha.0/plugin-obs.zip",
-  "sha256": "3538681932fc7a7d2a26ecca75d0df48288373bfc83a1f849064df921870f7e2"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-obs/releases/download/v0.2.0-alpha.5/plugin-obs.zip",
+  "sha256": "5f9b7e69ea59defbbac2c40978cb84ccf6804be7c4bf75bb8e2c0a1d2773978c"
 }
